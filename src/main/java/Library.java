@@ -8,4 +8,8 @@ public class Library {
     public boolean someLibraryMethod() {
         return true;
     }
+
+    String myNameIs() {
+        return null;
+    }
 }
